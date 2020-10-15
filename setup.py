@@ -12,7 +12,7 @@ def read(*parts):
         return f.read()
 
 setup(
-  name = 'vaderSentiment',
+  name = 'vaderSentimentForFinance',
   #packages = ['vaderSentiment'], # this must be the same as the name above
   packages = find_packages(exclude=['tests*']), # a better way to do it than the line above -- this way no typo/transpo errors
   include_package_data=True,
