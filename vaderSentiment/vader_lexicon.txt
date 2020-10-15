@@ -7661,7 +7661,6 @@ reports	0.0
 passive	0.2023
 weigh	0.0
 related	0.0
-bullish	0.0
 nailed	0.0
 live	0.0
 usual	0.0
@@ -10315,7 +10314,6 @@ venmo	0.0
 likes	0.4215
 gadget	0.0
 shagging	0.0
-bearish	0.0
 shifting	0.0
 reliably	0.0
 speeds	0.0
@@ -15264,7 +15262,6 @@ reports	0.0
 passive	0.2023
 weigh	0.0
 related	0.0
-bullish	0.0
 nailed	0.0
 live	0.0
 usual	0.0
@@ -17918,7 +17915,6 @@ venmo	0.0
 likes	0.4215
 gadget	0.0
 shagging	0.0
-bearish	0.0
 shifting	0.0
 reliably	0.0
 speeds	0.0
