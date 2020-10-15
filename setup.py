@@ -23,7 +23,7 @@ setup(
   author = 'C.J. Hutto',
   author_email = 'cjhutto@gatech.edu',
   license = 'MIT License: http://opensource.org/licenses/MIT',
-  url = 'https://github.com/akueisara/vaderSentiment', # use the URL to the github repo
+  url = 'https://github.com/akueisara/vaderSentiment.git', # use the URL to the github repo
   download_url = 'https://github.com/akueisara/vaderSentiment/archive/master.zip',
   install_requires = ['requests'],
   keywords = ['vader', 'sentiment', 'analysis', 'opinion', 'mining', 'nlp', 'text', 'data',
